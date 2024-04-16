@@ -8,6 +8,7 @@ int main(){
 
     printf("%c\n", vetor[0]); // imprime a letra maiúscula
     return 0;
+    
 }
 
 // transforma minusculo em maiusculo usando ASCII
