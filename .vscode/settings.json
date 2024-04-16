@@ -1,7 +1,6 @@
 {
-    "files.associations": {
-        "array": "cpp",
-        "initializer_list": "cpp",
-        "utility": "cpp"
-    }
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "files.associations": {
+    "stdio.h": "c"
+  }
 }
