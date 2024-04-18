@@ -1,30 +1,37 @@
 #include <stdio.h>
-#include <stdbool.h>
 
-void sieveOfEratosthenes(int n) {
-    bool prime[n+1];
-    memset(prime, true, sizeof(prime));
+int main() {
+    int limite_superior;
 
-    for (int p = 2; p * p <= n; p++) {
-        if (prime[p] == true) {
-            for (int i = p * p; i <= n; i += p)
-                prime[i] = false;
+    printf("Digite o limite superior para encontrar números primos: ");
+    scanf("%d", &limite_superior);
+
+    // Array para marcar os números como primos ou não primos
+    int primo[limite_superior + 1];
+
+    // Inicializa todos os números como primos
+    for (int i = 2; i <= limite_superior; i++) {
+        primo[i] = 1;
+    }
+
+    // Marca os múltiplos de números primos como não primos
+    for (int p = 2; p * p <= limite_superior; p++) {
+        if (primo[p] == 1) {
+            // Marca os múltiplos de p como não primos
+            for (int i = p * 2; i <= limite_superior; i += p) {
+                primo[i] = 0;
+            }
         }
     }
 
-    for (int p = 2; p <= n; p++) {
-        if (prime[p])
+    // Imprime os números primos
+    printf("Números primos entre 2 e %d:\n", limite_superior);
+    for (int p = 2; p <= limite_superior; p++) {
+        if (primo[p] == 1) {
             printf("%d ", p);
+        }
     }
-}
-
-int main() {
-    int n;
-    printf("Enter the limit: ");
-    scanf("%d", &n);
-
-    printf("Prime numbers up to %d are: ", n);
-    sieveOfEratosthenes(n);
+    printf("\n");
 
     return 0;
 }
