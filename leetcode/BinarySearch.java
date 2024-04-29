@@ -1,5 +1,5 @@
 class BinarySearch {
-    public int search(int[] nums, int target) {
+    public int binarySearch(int[] nums, int target) {
 
         int n = nums.length;
         int low = 0 , high = n-1;     
