@@ -1,3 +1,3 @@
-# Maratona
+## Algoritmos em geral
 
-Esse repositório vai ser a forma que meu time vai salvar os exericicios feitos para maratonas de programação em geral.
+Esse repositório permeia entre todas as formas de algoritmo desenvolvidas por mim em diferentes instâncias, desde matéria da faculdade à exercícios da maratona e leetcode.

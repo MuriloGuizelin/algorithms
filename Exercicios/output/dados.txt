@@ -1,3 +1,0 @@
-Nome: 12
-CPF: 12
-Coeficiente: 12.00

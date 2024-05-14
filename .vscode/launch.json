@@ -5,6 +5,27 @@
       "type": "java",
       "name": "tenis",
       "request": "launch",
+      "mainClass": "Exercicios.tenis",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Exercicios.Main",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "zero",
+      "request": "launch",
+      "mainClass": "Exercicios.zero",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "tenis",
+      "request": "launch",
       "mainClass": "tenis",
       "projectName": "algorithms_52100bd8"
     },
