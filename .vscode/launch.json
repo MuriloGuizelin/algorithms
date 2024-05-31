@@ -3,6 +3,209 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Maasdin",
+      "request": "launch",
+      "mainClass": "Maasdin",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Entrada",
+      "request": "launch",
+      "mainClass": "Entrada",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "adas",
+      "request": "launch",
+      "mainClass": "adas",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Maiadasn",
+      "request": "launch",
+      "mainClass": "Maiadasn",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Maadain",
+      "request": "launch",
+      "mainClass": "Maadain",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "home",
+      "request": "launch",
+      "mainClass": "home",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "cab",
+      "request": "launch",
+      "mainClass": "cab",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Cabloco",
+      "request": "launch",
+      "mainClass": "Cabloco",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Kesimo",
+      "request": "launch",
+      "mainClass": "Kesimo",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "MaxPieces",
+      "request": "launch",
+      "mainClass": "MaxPieces",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "BiscoitoConfeitado",
+      "request": "launch",
+      "mainClass": "BiscoitoConfeitado",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Homem",
+      "request": "launch",
+      "mainClass": "Homem",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Folgudeo",
+      "request": "launch",
+      "mainClass": "Folgudeo",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "MatintaPereira",
+      "request": "launch",
+      "mainClass": "MatintaPereira",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "CabocloDAgua",
+      "request": "launch",
+      "mainClass": "CabocloDAgua",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Caboclo",
+      "request": "launch",
+      "mainClass": "Caboclo",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "SantoBrilhoDasColinas",
+      "request": "launch",
+      "mainClass": "SantoBrilhoDasColinas",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "charla",
+      "request": "launch",
+      "mainClass": "charla",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "BotoFestas",
+      "request": "launch",
+      "mainClass": "BotoFestas",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Iracema",
+      "request": "launch",
+      "mainClass": "Iracema",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "LagrimasIrritantes",
+      "request": "launch",
+      "mainClass": "LagrimasIrritantes",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Lagrimas",
+      "request": "launch",
+      "mainClass": "Lagrimas",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Deus",
+      "request": "launch",
+      "mainClass": "Deus",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Boto",
+      "request": "launch",
+      "mainClass": "Boto",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Biscoito",
+      "request": "launch",
+      "mainClass": "Biscoito",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "Alice",
+      "request": "launch",
+      "mainClass": "Alice",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "AnalisadorDeCoresImagem",
+      "request": "launch",
+      "mainClass": "AnalisadorDeCoresImagem",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
+      "name": "ImageColorAnalyzer",
+      "request": "launch",
+      "mainClass": "ImageColorAnalyzer",
+      "projectName": "algorithms_52100bd8"
+    },
+    {
+      "type": "java",
       "name": "tenis",
       "request": "launch",
       "mainClass": "Exercicios.tenis",
