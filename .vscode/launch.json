@@ -239,8 +239,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Muril/Desktop/algorithms/Exercicios",
-      "program": "c:/Users/Muril/Desktop/algorithms/Exercicios/build/Debug/outDebug",
+      "cwd": "c:/Users/Muril/Desktop/algorithms/C/Fase-zero",
+      "program": "c:/Users/Muril/Desktop/algorithms/C/Fase-zero/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
